@@ -4,7 +4,7 @@ Postprocessing command "ensure"
 Command adds columns with specified names if columns not exist
 
 ### Arguments
-- columns - positional infinit argument, text. Columns names 
+- columns - positional infinite argument, text. Columns names 
 
 ### Usage example
 ```
